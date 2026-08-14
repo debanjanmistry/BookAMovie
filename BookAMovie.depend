@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1699198778 source:c:\users\lappy\documents\learning c++\bookamovie\main.cpp
+	<string>
+	"Controls.h"
+	"Administrator.h"
+	"Customer.h"
+
+1699335695 source:c:\users\lappy\documents\learning c++\bookamovie\display.cpp
+	"Display.h"
+	<iostream>
+
+1699335724 c:\users\lappy\documents\learning c++\bookamovie\display.h
+	<string>
+
+1699198671 source:c:\users\lappy\documents\learning c++\bookamovie\controls.cpp
+	"Controls.h"
+	<conio.h>
+	"Display.h"
+
+1699107334 c:\users\lappy\documents\learning c++\bookamovie\controls.h
+	<string>
+
+1699693235 source:c:\users\lappy\documents\learning c++\bookamovie\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	<cstdio>
+	<conio.h>
+	"Controls.h"
+
+1699686917 c:\users\lappy\documents\learning c++\bookamovie\administrator.h
+	<string>
+	<vector>
+	"FileHandling.h"
+	"Display.h"
+
+1699692046 source:c:\users\lappy\documents\learning c++\bookamovie\customer.cpp
+	"Customer.h"
+	<iostream>
+	<conio.h>
+	"Controls.h"
+
+1699691848 c:\users\lappy\documents\learning c++\bookamovie\customer.h
+	<string>
+	"FileHandling.h"
+	"Display.h"
+
+1699182188 c:\users\lappy\documents\learning c++\bookamovie\filehandling.h
+	<fstream>
+	<string>
+	<vector>
+
+1699202980 source:c:\users\lappy\documents\learning c++\bookamovie\filehandling.cpp
+	"FileHandling.h"
+
+1700295037 source:c:\users\debanjaln\documents\learning c++\bookamovie\administrator.cpp
+	"Administrator.h"
+	<iostream>
+	<cstdio>
+	<conio.h>
+	"Controls.h"
+
+1699686917 c:\users\debanjaln\documents\learning c++\bookamovie\administrator.h
+	<string>
+	<vector>
+	"FileHandling.h"
+	"Display.h"
+
+1699182188 c:\users\debanjaln\documents\learning c++\bookamovie\filehandling.h
+	<fstream>
+	<string>
+	<vector>
+
+1700199811 c:\users\debanjaln\documents\learning c++\bookamovie\display.h
+	<string>
+	<vector>
+
+1700292918 c:\users\debanjaln\documents\learning c++\bookamovie\controls.h
+	<string>
+	"Display.h"
+
+1700293195 source:c:\users\debanjaln\documents\learning c++\bookamovie\controls.cpp
+	"Controls.h"
+	<conio.h>
+
+1700295569 source:c:\users\debanjaln\documents\learning c++\bookamovie\display.cpp
+	"Display.h"
+	<iostream>
+
+1699202980 source:c:\users\debanjaln\documents\learning c++\bookamovie\filehandling.cpp
+	"FileHandling.h"
+
+1699198778 source:c:\users\debanjaln\documents\learning c++\bookamovie\main.cpp
+	<string>
+	"Controls.h"
+	"Administrator.h"
+	"Customer.h"
+
+1700800312 c:\users\debanjaln\documents\learning c++\bookamovie\customer.h
+	<string>
+	"FileHandling.h"
+	"Display.h"
+	"Controls.h"
+
+1700801771 source:c:\users\debanjaln\documents\learning c++\bookamovie\customer.cpp
+	"Customer.h"
+	<iostream>
+	<conio.h>
+
